@@ -1,0 +1,4 @@
+general: {
+  enabled = true
+  ndi_name = "JanusNDI"
+}
