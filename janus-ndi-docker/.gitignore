@@ -1,0 +1,10 @@
+# Ignora o SDK do NDI (não pode ser versionado)
+Install_NDI_SDK_v5_Linux.tar.gz
+
+# Ignora arquivos temporários e de build do Docker
+*.log
+*.tmp
+__pycache__/
+*.pyc
+*.swp
+.DS_Store
